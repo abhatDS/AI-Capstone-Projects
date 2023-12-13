@@ -1,5 +1,5 @@
 # AI-Capstone-Projects
 This is my Repository
 <br>
-Author - Aarti Bhat
+Author - Aarti Bhat (DS)
 <br>
